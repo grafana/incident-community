@@ -1,6 +1,10 @@
-# incident-app
+# Grafana Incident Community
 
-This repo is for issues and feedback for the Grafana Incident tool. This repo contains no code.
+Welcome to the community site for Grafana Incident tool, available in preview in Grafana Cloud.
+
+We use this repo to engage with our preview users.
 
 * [Issues](https://github.com/grafana/incident-app/issues) for bug reports
 * [Discussions](https://github.com/grafana/incident-app/discussions) for new feature ideas, questions, or comments
+
+This repo contains no code.
