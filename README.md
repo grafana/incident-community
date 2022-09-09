@@ -21,11 +21,11 @@ Declaring an incident is easy. You can do it in the web UI, or right from the ch
 
 Assigning roles helps everyone know who’s doing what. An investigator is assigned first; the person responsible for figuring out what’s going on, or finding someone who can. For meatier incidents, a Commander is assigned, who takes charge of the incident, keeping everyone up-to-date and making sure nothing gets forgotten.
 
-<img src='https://user-images.githubusercontent.com/101659/189378061-0750c211-cc38-42e3-8d23-037b903a9a28.gif' />
+<img width='500' src='https://user-images.githubusercontent.com/101659/189378061-0750c211-cc38-42e3-8d23-037b903a9a28.gif' />
 
 A chatbot offers a command-line interface for managing incidents. The chatbot also looks out for interesting context shared in the chat.
 
-<img width="687" alt="Slackbot command help" src="https://user-images.githubusercontent.com/101659/189378082-0e2b445c-5d5c-46f4-b63a-9ea150fc66cb.png">
+<img width="500" alt="Slackbot command help" src="https://user-images.githubusercontent.com/101659/189378082-0e2b445c-5d5c-46f4-b63a-9ea150fc66cb.png">
 
 For example, if you post a link to a GitHub issue, it is attached to the incident and shows up on the page. Grafana Incident synchronises the status, so you can easily see what’s done and what’s left to do. Whether that’s GitHub issues and pull requests, JIRA tickets, Grafana dashboards, or external links, you can passively build up a picture of what’s going on.
 
