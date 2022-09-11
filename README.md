@@ -4,6 +4,8 @@
 
 Grafana Incident takes away the toil, letting your teams focus on what's important when things go wrong.
 
+* [Read a welcome message](https://github.com/grafana/incident-community/discussions/1) from the team behind the tool
+
 ## Feedback
 
 * [Issues](https://github.com/grafana/incident-app/issues) for bug reports
