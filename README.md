@@ -41,7 +41,7 @@ Keep track of TODO items with the built-in task manager. Easily add tasks and as
 
 <img width="500" alt="Task management is easy in Grafana Incident" src="https://user-images.githubusercontent.com/101659/189378347-9c24cc31-600e-4030-89d2-7a4339ff1105.gif">
 
-he tool automatically builds a timeline of activity, helping you gain valuable insights into what went on, and how your response process is working, or not.
+The tool automatically builds a timeline of activity, helping you gain valuable insights into what went on, and how your response process is working, or not.
 
 <img width='500' src='https://user-images.githubusercontent.com/101659/189378391-18238626-72f2-4fe5-98cf-8f25dbf2b2c5.png' />
 
